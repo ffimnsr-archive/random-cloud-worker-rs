@@ -1,0 +1,9 @@
+name = "random-worker"
+type = "rust"
+account_id = "50195915f1bdaca51ca673718af03f79"
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [ 
+    { binding = "RANDOM", id = "755f2066c2b547869c1e21009db4a165", preview_id = "755f2066c2b547869c1e21009db4a165" }
+]
